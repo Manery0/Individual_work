@@ -1,0 +1,28 @@
+ .flex-container {
+    gap: 0rem;
+    width: 1200px;
+    display: flex;
+    height: 250px;
+    text-align: center;
+
+  }
+
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    height: 50rem;
+  }
+  
+  .flex-items {
+    border: tomato solid;
+    display: flex;
+    border: peru solid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+    background-color: maroon;
+  }
+
